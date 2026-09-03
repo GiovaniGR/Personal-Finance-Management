@@ -46,6 +46,7 @@ Foram criadas quatro tabelas iniciais:
 | `LANCAMENTOS` | Centralizar receitas, despesas e parcelas. |
 | `FINANCIAMENTOS` | Armazenar informações de valores financiados. |
 | `DIVIDAS` | Acompanhar dívidas, parcelas e adiantamentos. |
+| `METAS` | Armazenar e acompanhar objetivos financeiros. |
 
 ## Principais decisões
 
